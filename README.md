@@ -9,6 +9,4 @@
 ## Análisis avanzado de Software
 ## Acosta Noriega Saul Eduardo 16212529
 ## Equipo: Disae
-Profesor :  Enriquez Alvarez  Jaime Leonardo 
-## Unidad 1 💻
-🧠  
+## Profesor: Enrique  Alvarez Jaime Leonardo
