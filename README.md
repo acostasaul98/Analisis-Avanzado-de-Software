@@ -1,4 +1,4 @@
-![](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/itt.png)
+![](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/Imagenes/itt.png)
 
 
 # Analisis-Avanzado-de-Software
