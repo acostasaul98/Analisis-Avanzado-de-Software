@@ -1,4 +1,6 @@
-![](https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.png)
+![](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/itt.png)
+
+
 # Analisis-Avanzado-de-Software
 ## Tecnológico Nacional de México 
 ## Instituto Tecnológico de Tijuana
