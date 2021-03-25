@@ -45,6 +45,7 @@ ___
 3. Elabore el diagrama del **modelo del negocio** que se visualiza para el caso de estudio, utilizando BPMN y la herramienta case Bizagi.
 ![enter image description here](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/Imagenes/Modelo%20de%20negocio.png)
 
+[Ir al modelo de negocio](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/Imagenes/Modelo%20de%20negocio.png)
 ___
 
 ### :bomb: Rubrica
