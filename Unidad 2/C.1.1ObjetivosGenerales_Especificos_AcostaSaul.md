@@ -39,7 +39,7 @@ ___
 2. Especifique tres **objetivos específicos**, recordándose que deben ser medibles, cuantificables y logrables.
 -   Los usuarios dentro de la plataforma puedan terminar exitosamente como mínimo 1 curso.
     
--   Aumentar los usuarios dentro de la página web.
+-   Aumentar los usuarios dentro de la Plataforma web.
     
 -   Aumentar el número de cursos dentro de la plataforma web.
 3. Elabore el diagrama del **modelo del negocio** que se visualiza para el caso de estudio, utilizando BPMN y la herramienta case Bizagi.
