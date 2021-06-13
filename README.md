@@ -11,4 +11,9 @@
 ## Análisis avanzado de Software
 ## Acosta Noriega Saul Eduardo 16212529
 ## Equipo: Disae
-## Profesor: Enrique  Alvarez Jaime Leonardo
+## Profesor: Enrique  Alvarez Jaime 
+
+
+## 🗄 Actividades Scrum 
+
+[A3.1_Scrum_StartPhase](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/Unidad%202/A3.1_Documentation-_Scrum_StartPhase_AcostaSaul.pdf)
