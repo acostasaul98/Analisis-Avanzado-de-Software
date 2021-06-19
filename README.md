@@ -20,4 +20,5 @@
 
 [A3.2_Start_Phase_Artifacts](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/Unidad%202/A3.2_Start-phase-Artifacts_AcostaSaul.pdf)
 
-[💣 A3.3 Software architecture through the C4 Model]()
+[💣 A3.3 Software architecture through the C4 Model](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/Unidad%202/A3.3_Architectureusing_ModelC4_AcostaSaul.pdf)
+
