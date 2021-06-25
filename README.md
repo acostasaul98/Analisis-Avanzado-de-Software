@@ -22,3 +22,4 @@
 
 [💣 A3.3 Software architecture through the C4 Model](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/Unidad%202/A3.3_Architectureusing_ModelC4_AcostaSaul.pdf)
 
+[A3.4 Scrum Artifacts Planning Estimation](https://github.com/acostasaul98/Analisis-Avanzado-de-Software/blob/main/Unidad%202/A3.4_Scrum_Artifacts_PlanningEstimation_AcostaSaul.pdf)
